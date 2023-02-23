@@ -1,0 +1,29 @@
+{
+  "name": "mockinterviewdebugging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.10.0",
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhanush-Saji/mockinterviewdebugging.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhanush-Saji/mockinterviewdebugging/issues"
+  },
+  "homepage": "https://github.com/Dhanush-Saji/mockinterviewdebugging#readme"
+}
